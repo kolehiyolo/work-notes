@@ -1,85 +1,63 @@
 <!-- * DONE -->
-Make certain changes
 
 <!-- ? DOING -->
-Generous Students - Web Design/Dev
-- prep project brief doc
-- send to team
-- prep timeline
 
 <!-- @ PAUSED -->
 
-<!-- @ WITH CLIENT -->
-JH Israel - Jewish Deck
-- final QA
-- deliver
-
-JH Israel - Updated Bifold
-- get internal feedback
-- deliver
-
-Jesus.net - 2026 World Briefing Invitation
-- prep card
-- QA kren's work
-- deliver to lynette
-
-Jesus.net - Chosen Champions Event Invite
-- prep card
-- delegate to kren
-- deliver to vanessa
-
 <!-- @ DELEGATED -->
-SFEF - Corpo Doc
-- delegate to kren to rework
-
-eStar - Project
-- confirm progress from gen
 
 <!-- TODO -->
-SFEF - Feb Doc Templates
-- delegate to kren gen q report
-- delegate to kren corp report
-- deliver to anna
 
-<!-- TODO ME -->
-MyNxt10 - November Package
-- build
-- deliver to anna
+Internal - Clockify
+- update may 1 hours
+- update may 4 hours
+- update may 5 hours
 
-Admin - Weekly Report
-- prepare and report
+Internal - CPM Offer
+- finalize
+- send
 
+Generous Students - Website
+- plan content
+- begin designs
 
+JH Israel - Updated Bifold
+- qa jewish
+- deliver
 
+JH Israel - Costs vs Price breakdown
+- review hours costed so far for entire lifetime
+- compare to price
+- report costs vs price incurred so far
 
+eStar - Interactive Map
+- review data provided
+- confirm with internal
+- client service with dwight
 
-
-
-
-
-
-
-<!-- ! LATER -->
-Jesus.net - 2026 World Briefing Deck
-- prep card
+eStar - Interactive Map Design
 - delegate to kren
+- QA and delegate to devs
 
-Jesus.net - Chosen Champions Event Deck
-- prep card
-- delegate to kren
-- deliver to vanessa
+Internal - Project Documentation
+- for ease of transition, I must prepare some sort of historical documentation of projects
+- even just the active projects ought to be good enough to onboard, just so em can understand projects easier
+
+Jesus.net - Tribute to Nancy
+- creative direct kren
+
+Internal - New Staff
+- onboard new staff to tools
+- meet and greet
+- do a soft tour of work/projects
+
+Internal - Training Em
+- walk her through a day in the life
+- show her sample of todos I do in the daily
+
+eStar - Website
+- update website
+- deliver to devs
 
 SFEF - 2026-04-09 Website Update
-- prep card
-- do
-- deliver to rick
-
-Admin - New Role
-- prepare new role proposal
-
-Admin - Clockify
-- organize hours
-
-SFEF - Magazine Cover
-- QA kren's work
-- deliver to rick
+- start today
