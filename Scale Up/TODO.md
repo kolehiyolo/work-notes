@@ -1,63 +1,97 @@
 <!-- * DONE -->
+CLEAN DESK
 
 <!-- ? DOING -->
 
 <!-- @ PAUSED -->
 
 <!-- @ DELEGATED -->
+Internal - CPM Offer
+- just check in status
+
+Jesus.net - Tribute to Nancy Book Design
+- meet with kren to discuss delegation
+- QA kren's work
+- deliver to client
+- help with printing prep
+
+Jesus.net - The Chosen 7 Day Series Email Campaign Design
+- see how she did the timeline/milestones
+- confirm delegation to staff (kren first, others for full rollout)
+
+Jesus.net - E-Coaching Slide Deck Beautification
+- QA work so far
+- confirm ETA with client
+
+eStar - Templatized Interactive Impact Report Development
+- QA, delegate
+- QA, delegate to devs
+
+<!-- ! ASIKASO -->
+Internal - Documenting Projects
+- do this
 
 <!-- TODO -->
-
-Internal - Clockify
-- update may 1 hours
-- update may 4 hours
-- update may 5 hours
-
-Internal - CPM Offer
-- finalize
-- send
-
-Generous Students - Website
+Generous Students - Website Design & Development
 - plan content
 - begin designs
 
-JH Israel - Updated Bifold
-- qa jewish
-- deliver
-
-JH Israel - Costs vs Price breakdown
-- review hours costed so far for entire lifetime
-- compare to price
-- report costs vs price incurred so far
-
-eStar - Interactive Map
-- review data provided
-- confirm with internal
-- client service with dwight
-
-eStar - Interactive Map Design
-- delegate to kren
-- QA and delegate to devs
-
-Internal - Project Documentation
-- for ease of transition, I must prepare some sort of historical documentation of projects
-- even just the active projects ought to be good enough to onboard, just so em can understand projects easier
-
-Jesus.net - Tribute to Nancy
-- creative direct kren
-
-Internal - New Staff
-- onboard new staff to tools
-- meet and greet
-- do a soft tour of work/projects
-
 Internal - Training Em
 - walk her through a day in the life
-- show her sample of todos I do in the daily
 
-eStar - Website
+eStar - Website Design & Development
+- reactivate website
 - update website
 - deliver to devs
 
 SFEF - 2026-04-09 Website Update
 - start today
+
+Jesus.net Global - A Miracle Every Day: World Briefing 2026 Deck
+- follow-up on feedback
+- introduce Em
+
+SFEF - Feb 2026 Templated Reports Design
+- follow-up on feedback
+- introduce Em
+
+<!-- TODO LATER -->
+Internal - Backtracking 2026 Hours
+- confirm january hours
+- confirm february hours
+- confirm march hours
+
+Internal - Clockify
+- update may 1 hours
+- update may 4 hours
+- update may 5 hours
+- update may 6 hours
+
+tristan.cinco@scaleupservice.ai
+
+Internal - Claude Creative
+- discuss in meeting
+- review claude
+- try with kren
+
+Internal - New Business
+- what's the plan
+- ask john
+- delegate entirely to ems
+
+SFEF - 2026 Magazine
+- delegate to em
+- introduce to client
+
+JH Israel - Donor Presentation Kit
+- follow up on feedback
+- MAYBE do a final report to john if he asks for it
+- review hours costed so far for entire lifetime
+- KREN OVERALL SO FAR: $975.33
+- TRISTAN OVERALL SO FAR: $672
+- compare to price
+- report costs vs price incurred so far
+
+SFEF - Basic Brand Kit
+- review feedback
+- delegate to kren to action
